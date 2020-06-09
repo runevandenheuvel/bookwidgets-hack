@@ -3,4 +3,5 @@ let nameStudent = "Smart teachers has left the chat.";
 document.getElementById("student_label").style.display = "block";
 document.getElementById("student").style.display = "block";
 document.getElementById("student").value = nameStudent;
+document.getElementById("email").value = teacherEmail
 console.clear();
